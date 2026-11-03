@@ -1,0 +1,2 @@
+- name: setup-renpy
+  uses: remarkablegames/setup-renpy@v2.2.5
